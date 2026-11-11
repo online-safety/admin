@@ -1,2 +1,2 @@
-# adim
+# admin
 Administration for the group.
